@@ -1,0 +1,5 @@
+p = 3.14159
+r = input()
+a = p*(float(r) * float(r))
+
+print(f"A = {a: .4f}")
